@@ -1,0 +1,1 @@
+create type family_type as enum('Married', 'Divorced', 'Widow', 'Separated', 'Other');
